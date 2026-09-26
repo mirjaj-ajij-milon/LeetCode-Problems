@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-cheapest-flights-within-k-stops](https://github.com/Mirjaj786/LeetCode-Problems/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1025-divisor-game](https://github.com/Mirjaj786/LeetCode-Problems/tree/master/1025-divisor-game) |
 | [1137-n-th-tribonacci-number](https://github.com/Mirjaj786/LeetCode-Problems/tree/master/1137-n-th-tribonacci-number) |
+| [1143-longest-common-subsequence](https://github.com/Mirjaj786/LeetCode-Problems/tree/master/1143-longest-common-subsequence) |
 ## Brainteaser
 |  |
 | ------- |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [1143-longest-common-subsequence](https://github.com/Mirjaj786/LeetCode-Problems/tree/master/1143-longest-common-subsequence) |
 | [1768-merge-strings-alternately](https://github.com/Mirjaj786/LeetCode-Problems/tree/master/1768-merge-strings-alternately) |
 ## Array
 |  |
@@ -116,4 +118,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0337-house-robber-iii](https://github.com/Mirjaj786/LeetCode-Problems/tree/master/0337-house-robber-iii) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/Mirjaj786/LeetCode-Problems/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
