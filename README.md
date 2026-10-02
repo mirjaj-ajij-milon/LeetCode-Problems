@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Mirjaj786/LeetCode-Problems/tree/master/0020-valid-parentheses) |
 | [0072-edit-distance](https://github.com/Mirjaj786/LeetCode-Problems/tree/master/0072-edit-distance) |
 | [1143-longest-common-subsequence](https://github.com/Mirjaj786/LeetCode-Problems/tree/master/1143-longest-common-subsequence) |
 | [1768-merge-strings-alternately](https://github.com/Mirjaj786/LeetCode-Problems/tree/master/1768-merge-strings-alternately) |
@@ -136,4 +137,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/Mirjaj786/LeetCode-Problems/tree/master/0300-longest-increasing-subsequence) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Mirjaj786/LeetCode-Problems/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Mirjaj786/LeetCode-Problems/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
