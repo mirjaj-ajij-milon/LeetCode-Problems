@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/Mirjaj786/LeetCode-Problems/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Mirjaj786/LeetCode-Problems/tree/master/0032-longest-valid-parentheses) |
+| [0044-wildcard-matching](https://github.com/Mirjaj786/LeetCode-Problems/tree/master/0044-wildcard-matching) |
 | [0070-climbing-stairs](https://github.com/Mirjaj786/LeetCode-Problems/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/Mirjaj786/LeetCode-Problems/tree/master/0072-edit-distance) |
 | [0198-house-robber](https://github.com/Mirjaj786/LeetCode-Problems/tree/master/0198-house-robber) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Mirjaj786/LeetCode-Problems/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Mirjaj786/LeetCode-Problems/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Mirjaj786/LeetCode-Problems/tree/master/0032-longest-valid-parentheses) |
+| [0044-wildcard-matching](https://github.com/Mirjaj786/LeetCode-Problems/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/Mirjaj786/LeetCode-Problems/tree/master/0072-edit-distance) |
 | [1143-longest-common-subsequence](https://github.com/Mirjaj786/LeetCode-Problems/tree/master/1143-longest-common-subsequence) |
 | [1768-merge-strings-alternately](https://github.com/Mirjaj786/LeetCode-Problems/tree/master/1768-merge-strings-alternately) |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/Mirjaj786/LeetCode-Problems/tree/master/0044-wildcard-matching) |
 | [0509-fibonacci-number](https://github.com/Mirjaj786/LeetCode-Problems/tree/master/0509-fibonacci-number) |
 ## Tree
 |  |
@@ -156,4 +159,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Mirjaj786/LeetCode-Problems/tree/master/0022-generate-parentheses) |
+## Greedy
+|  |
+| ------- |
+| [0044-wildcard-matching](https://github.com/Mirjaj786/LeetCode-Problems/tree/master/0044-wildcard-matching) |
 <!---LeetCode Topics End-->
