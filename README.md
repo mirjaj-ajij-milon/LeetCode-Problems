@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1025-divisor-game](https://github.com/Mirjaj786/LeetCode-Problems/tree/master/1025-divisor-game) |
 | [1137-n-th-tribonacci-number](https://github.com/Mirjaj786/LeetCode-Problems/tree/master/1137-n-th-tribonacci-number) |
 | [1143-longest-common-subsequence](https://github.com/Mirjaj786/LeetCode-Problems/tree/master/1143-longest-common-subsequence) |
+| [3826-minimum-partition-score](https://github.com/Mirjaj786/LeetCode-Problems/tree/master/3826-minimum-partition-score) |
 ## Brainteaser
 |  |
 | ------- |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/Mirjaj786/LeetCode-Problems/tree/master/0733-flood-fill) |
 | [0746-min-cost-climbing-stairs](https://github.com/Mirjaj786/LeetCode-Problems/tree/master/0746-min-cost-climbing-stairs) |
 | [0997-find-the-town-judge](https://github.com/Mirjaj786/LeetCode-Problems/tree/master/0997-find-the-town-judge) |
+| [3826-minimum-partition-score](https://github.com/Mirjaj786/LeetCode-Problems/tree/master/3826-minimum-partition-score) |
 ## Matrix
 |  |
 | ------- |
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/Mirjaj786/LeetCode-Problems/tree/master/0300-longest-increasing-subsequence) |
+| [3826-minimum-partition-score](https://github.com/Mirjaj786/LeetCode-Problems/tree/master/3826-minimum-partition-score) |
 ## Longest Increasing Subsequence
 |  |
 | ------- |
@@ -171,4 +174,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/Mirjaj786/LeetCode-Problems/tree/master/0096-unique-binary-search-trees) |
+## Divide and Conquer
+|  |
+| ------- |
+| [3826-minimum-partition-score](https://github.com/Mirjaj786/LeetCode-Problems/tree/master/3826-minimum-partition-score) |
+## Queue
+|  |
+| ------- |
+| [3826-minimum-partition-score](https://github.com/Mirjaj786/LeetCode-Problems/tree/master/3826-minimum-partition-score) |
+## Prefix Sum
+|  |
+| ------- |
+| [3826-minimum-partition-score](https://github.com/Mirjaj786/LeetCode-Problems/tree/master/3826-minimum-partition-score) |
+## Monotonic Queue
+|  |
+| ------- |
+| [3826-minimum-partition-score](https://github.com/Mirjaj786/LeetCode-Problems/tree/master/3826-minimum-partition-score) |
 <!---LeetCode Topics End-->
