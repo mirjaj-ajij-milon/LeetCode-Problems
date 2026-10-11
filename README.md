@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Mirjaj786/LeetCode-Problems/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Mirjaj786/LeetCode-Problems/tree/master/0032-longest-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/Mirjaj786/LeetCode-Problems/tree/master/0044-wildcard-matching) |
+| [0045-jump-game-ii](https://github.com/Mirjaj786/LeetCode-Problems/tree/master/0045-jump-game-ii) |
 | [0070-climbing-stairs](https://github.com/Mirjaj786/LeetCode-Problems/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/Mirjaj786/LeetCode-Problems/tree/master/0072-edit-distance) |
 | [0096-unique-binary-search-trees](https://github.com/Mirjaj786/LeetCode-Problems/tree/master/0096-unique-binary-search-trees) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/Mirjaj786/LeetCode-Problems/tree/master/0027-remove-element) |
+| [0045-jump-game-ii](https://github.com/Mirjaj786/LeetCode-Problems/tree/master/0045-jump-game-ii) |
 | [0198-house-robber](https://github.com/Mirjaj786/LeetCode-Problems/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Mirjaj786/LeetCode-Problems/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/Mirjaj786/LeetCode-Problems/tree/master/0300-longest-increasing-subsequence) |
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/Mirjaj786/LeetCode-Problems/tree/master/0044-wildcard-matching) |
+| [0045-jump-game-ii](https://github.com/Mirjaj786/LeetCode-Problems/tree/master/0045-jump-game-ii) |
 ## Binary Search Tree
 |  |
 | ------- |
