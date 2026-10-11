@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/Mirjaj786/LeetCode-Problems/tree/master/0733-flood-fill) |
 | [0746-min-cost-climbing-stairs](https://github.com/Mirjaj786/LeetCode-Problems/tree/master/0746-min-cost-climbing-stairs) |
 | [0997-find-the-town-judge](https://github.com/Mirjaj786/LeetCode-Problems/tree/master/0997-find-the-town-judge) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Mirjaj786/LeetCode-Problems/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3826-minimum-partition-score](https://github.com/Mirjaj786/LeetCode-Problems/tree/master/3826-minimum-partition-score) |
 ## Matrix
 |  |
@@ -203,4 +204,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/Mirjaj786/LeetCode-Problems/tree/master/0416-partition-equal-subset-sum) |
+## Enumeration
+|  |
+| ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Mirjaj786/LeetCode-Problems/tree/master/2778-sum-of-squares-of-special-elements) |
 <!---LeetCode Topics End-->
