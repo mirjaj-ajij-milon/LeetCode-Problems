@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Mirjaj786/LeetCode-Problems/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Mirjaj786/LeetCode-Problems/tree/master/0035-search-insert-position) |
 | [0045-jump-game-ii](https://github.com/Mirjaj786/LeetCode-Problems/tree/master/0045-jump-game-ii) |
+| [0169-majority-element](https://github.com/Mirjaj786/LeetCode-Problems/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/Mirjaj786/LeetCode-Problems/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Mirjaj786/LeetCode-Problems/tree/master/0213-house-robber-ii) |
 | [0238-product-of-array-except-self](https://github.com/Mirjaj786/LeetCode-Problems/tree/master/0238-product-of-array-except-self) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Mirjaj786/LeetCode-Problems/tree/master/0169-majority-element) |
 | [0997-find-the-town-judge](https://github.com/Mirjaj786/LeetCode-Problems/tree/master/0997-find-the-town-judge) |
 ## Recursion
 |  |
@@ -188,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Mirjaj786/LeetCode-Problems/tree/master/0169-majority-element) |
 | [0307-range-sum-query-mutable](https://github.com/Mirjaj786/LeetCode-Problems/tree/master/0307-range-sum-query-mutable) |
 | [3826-minimum-partition-score](https://github.com/Mirjaj786/LeetCode-Problems/tree/master/3826-minimum-partition-score) |
 ## Queue
@@ -231,4 +234,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/Mirjaj786/LeetCode-Problems/tree/master/0307-range-sum-query-mutable) |
+## Sorting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Mirjaj786/LeetCode-Problems/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Mirjaj786/LeetCode-Problems/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Mirjaj786/LeetCode-Problems/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
