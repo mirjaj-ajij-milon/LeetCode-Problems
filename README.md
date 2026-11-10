@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1025-divisor-game](https://github.com/Mirjaj786/LeetCode-Problems/tree/master/1025-divisor-game) |
 | [1137-n-th-tribonacci-number](https://github.com/Mirjaj786/LeetCode-Problems/tree/master/1137-n-th-tribonacci-number) |
 | [1143-longest-common-subsequence](https://github.com/Mirjaj786/LeetCode-Problems/tree/master/1143-longest-common-subsequence) |
+| [3693-climbing-stairs-ii](https://github.com/Mirjaj786/LeetCode-Problems/tree/master/3693-climbing-stairs-ii) |
 | [3826-minimum-partition-score](https://github.com/Mirjaj786/LeetCode-Problems/tree/master/3826-minimum-partition-score) |
 ## Brainteaser
 |  |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/Mirjaj786/LeetCode-Problems/tree/master/0746-min-cost-climbing-stairs) |
 | [0997-find-the-town-judge](https://github.com/Mirjaj786/LeetCode-Problems/tree/master/0997-find-the-town-judge) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Mirjaj786/LeetCode-Problems/tree/master/2778-sum-of-squares-of-special-elements) |
+| [3693-climbing-stairs-ii](https://github.com/Mirjaj786/LeetCode-Problems/tree/master/3693-climbing-stairs-ii) |
 | [3826-minimum-partition-score](https://github.com/Mirjaj786/LeetCode-Problems/tree/master/3826-minimum-partition-score) |
 ## Matrix
 |  |
