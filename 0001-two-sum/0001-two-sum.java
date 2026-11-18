@@ -11,7 +11,7 @@ class Solution {
         // }
         // return new int[]{};
 
-        // Time ->  O(n)
+        // Time ->  O(n) Space -> O(n)
         HashMap<Integer, Integer> map = new HashMap<>();
 
         for (int i = 0; i < nums.length; i++) {
@@ -24,6 +24,7 @@ class Solution {
             map.put(nums[i], i);
         }
 
+        
         return new int[] {};
     }
 }
