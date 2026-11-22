@@ -1,49 +1,48 @@
 class NumArray {
-    static int tree[];
-
-    public static void init(int n) {
-        tree = new int[4 * n];
-    }
-
+    private int tree[];
     int n;
-    // int nums[] = new int[n];
 
+    private void init(int n){
+        tree = new int[n*4];
+    }
+    
     public NumArray(int[] nums) {
         n = nums.length;
-        // this.nums = nums;
         init(n);
-        buildST(0, 0, n - 1, nums);
+        buildST(0, 0, n-1, nums);
     }
 
-    public static void buildST(int i, int si, int sj, int arr[]) {
-        if (si == sj) {
+    private int buildST(int i, int si, int sj, int arr[]){
+        if(si == sj){
             tree[i] = arr[si];
-            return;
-        }
-
-        int mid = si + (sj - si) / 2;
-
-        buildST(2 * i + 1, si, mid, arr);
-        buildST(2 * i + 2, mid + 1, sj, arr);
-
-        tree[i] = tree[2 * i + 1] + tree[2 * i + 2];
-    }
-
-    public int sumRange(int left, int right) {
-        return getSum(0, 0, n - 1, left, right);
-    }
-
-    public static int getSum(int i, int si, int sj, int qi, int qj) {
-        if (qj < si || qi > sj) {
-            return 0;
-        } else if (si >= qi && sj <= qj) {
             return tree[i];
         }
 
-        int mid = si + (sj - si) / 2;
+        int mid = si + (sj - si)/2;
 
-        int left = getSum(2 * i + 1, si, mid, qi, qj);
-        int right = getSum(2 * i + 2, mid + 1, sj, qi, qj);
+        int l = buildST(2*i+1, si, mid, arr);
+        int r = buildST(2*i+2, mid+1, sj, arr);
+        tree[i] = l + r;
+
+        return tree[i];
+    }
+    
+    public int sumRange(int left, int right) {
+        return getSum(0, 0, n-1, left, right);
+    }
+
+    private int getSum(int i, int si, int sj, int st, int end){
+        if(si > end || sj < st){
+            return 0;
+        }else if(si >= st && sj <= end){
+            return tree[i];
+        }
+
+        int mid = si + (sj - si)/2;
+
+        int left = getSum(2*i+1, si, mid, st, end);
+        int right = getSum(2*i+2, mid+1, sj, st, end);
+
         return left + right;
     }
 }
