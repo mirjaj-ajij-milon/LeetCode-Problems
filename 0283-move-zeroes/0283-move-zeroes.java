@@ -1,20 +1,17 @@
 class Solution {
     public void moveZeroes(int[] nums) {
-        int notZeroPos = 0;
         int n = nums.length;
+        int nonZPos = 0;
+        // int arr[] = new int[n];
 
-        // Every not zero element put at start of array
         for(int i=0; i<n; i++){
-            if(nums[i] != 0){
-                nums[notZeroPos++] = nums[i];
-                // notZeroPos++;
-            }
+           if(nums[i] != 0){
+            nums[nonZPos++] = nums[i];
+           }
         }
 
-
-        // Remaining Size fill with Zeros
-        while(notZeroPos < n){
-            nums[notZeroPos++] = 0;
+        while(nonZPos < n){
+            nums[nonZPos++] = 0;
         }
     }
 }
